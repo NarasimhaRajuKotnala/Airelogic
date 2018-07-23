@@ -36,6 +36,9 @@ That will start the mongo server on port 27017. This can be changed in applicati
 
 Once MongoDB is running on port 27017 Run the BugtrackerApplication as a Java Application: 
 
+There is configuration file MongoDBConfig.java which loads few rows of User,Bug,Comment & history data to work with.
+I used this file for testing purposes and can be disposed in a production environment.
+
 ===================================================================================== 
 
 The features provided by this application are listed below.
