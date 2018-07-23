@@ -8,10 +8,15 @@ The Bug Tracker Application is used to track bugs. The application has been deve
 For the kind of data required for the BugTracker Application MongoDB is quite appropriate as a database. MongoDB is a no SQL databse with no fixed schema. MongoDB is a document database. So there is no need to design tables upfront and establish relationships. The developer has to just design a class and mongoDB will create the corresponding collection out of the box
 ==================================================================================
 Softwares Used: 
+
 Java: java version "10.0.1"
+
 Spring Version: Spring CLI v2.0.3.RELEASE
+
 IDE : Spring Tool Suite : Version: 3.9.5.RELEASE
+
 Build Tool : Maven
+
 
 ================================================================================== 
 Prerequisites:
