@@ -54,6 +54,9 @@ http://localhost:8080/addhistory http://localhost:8080/getallhistory http://loca
 
 The signup and login functionality has to be developed as well for this application which will enable the user to signup or login to the application. Once a user is logged in he can have the authority to assign/reassign bugs , update comments, etc. SO Spring boot provides features of Authorisation & Auhtentication. This has not been developed but can be developed using a few framweorks. The simplest is by using MongoTemplate. There are many Spring security features which can be implemented for better security. One is implementing OAuth.
 
+Unit Testing could not be completed in the limited timeframe but can be done using the Springboot test capabilities.
+Just setup a test class and wrote a test but not full working. 
+
 © 2018 GitHub, Inc.
 Terms
 Privacy
