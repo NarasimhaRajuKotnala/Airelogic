@@ -5,7 +5,8 @@ Bug Tracker Application (Note:This is only a backend code of the BugTrackerAppli
 
 The Bug Tracker Application is used to track bugs. The application has been developed using the springboot framework with MongoDB as the database. Springboot was chosen because it is a robust framework which can be set up pretty easily and quickly and it can be run as a standalone application without thinking too much about the container setup. Sprinboot comes with inbuilt tomcat setup so there is no need to worry about the setup of the server.
 
-For the kind of data required for the BugTracker Application MongoDB is quite appropriate as a database. MongoDB is a no SQL databse with no fixed schema. MongoDB is a document database. So there is no need to design tables upfront and establish relationships. The developer has to just design a class and mongoDB will create the corresponding collection out of the box
+For the kind of data required for the BugTracker Application MongoDB is quite appropriate as a database. MongoDB is a no SQL databse with no fixed schema. MongoDB is a document database. So there is no need to design tables upfront and establish relationships. The developer has to just design a class and mongoDB will create the corresponding collection out of the box.
+
 ==================================================================================
 Softwares Used: 
 
