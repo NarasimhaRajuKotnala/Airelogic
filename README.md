@@ -7,7 +7,7 @@ The Bug Tracker Application is used to track bugs. The application has been deve
 
 For the kind of data required for the BugTracker Application MongoDB is quite appropriate as a database. MongoDB is a no SQL databse with no fixed schema. MongoDB is a document database. So there is no need to design tables upfront and establish relationships. The developer has to just design a class and mongoDB will create the corresponding collection out of the box
 
-======================================================================= Prerequisites:
+================================================================================== Prerequisites:
 The user has to make sure MongoDB is installed and running on their system.The setup for the MongoDB is very easy. For windows users the user has to download the jars and install Mongodb. For Mac users the setup is the easiest. I will explain the mac setup. Windows users can refer to the setup online. Only prerequsite for MongDB is the user has to create a /data/db folder for storing the data.
 
 For installing on mac just issue the following command.
