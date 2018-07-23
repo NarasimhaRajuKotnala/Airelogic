@@ -33,7 +33,11 @@ mongod
 
 That will start the mongo server on port 27017. This can be changed in application.properties file of the springboot application.
 
-===================================================================================== Below are the listed features of functionality provided.
+Once MongoDB is running on port 27017 Run the BugtrackerApplication as a Java Application: 
+
+===================================================================================== 
+
+The features provided by this application are listed below.
 
 The default port is assumed 8080 this can be changed by the server.port property in application.properties file.
 
